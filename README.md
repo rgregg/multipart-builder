@@ -18,5 +18,5 @@ request that can be submitted using a POST request to api.onedrive.com:
 POST https://api.onedrive.com/v1.0/drive/root/children
 Content-Type: multipart/related; boundary="A100x"
 
-{output from the tool}
+[output from the tool]
 ```
